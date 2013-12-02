@@ -24,7 +24,7 @@ echo "*****SAY SOMETHING*****" >> $filename
 echo >> $filename
 
 echo ".SH OPTIONS" >> $filename
-echo ".IP -AnOPTION \"SAY SOMETHING ABOUT THOSE FLAGS \"" >> $filename
+echo ".IP \"-AnOPTION SAY SOMETHING ABOUT THOSE FLAGS \"" >> $filename
 echo >> $filename
 
 echo ".SH AUTHOR" >> $filename
